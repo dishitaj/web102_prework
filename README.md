@@ -17,13 +17,13 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] The Stats section also includes information about the least funded game, to encourage users to donate to it.
+* [ ] The Stats section also includes information about the least funded game, to encourage users to donate to it. It is a 3rd box titled **"Least Funded... Help Out!"** and sorts the funding to output the least funded one. 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='https://drive.google.com/file/d/1TyvEwHBW-HLiyLraG9KjzsKV8iQb2X9f/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./CodePathPreWork.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
