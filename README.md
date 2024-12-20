@@ -2,7 +2,7 @@
 
 Submitted by: **Dishita Jhawar**
 
-**SeaGame** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**SeaGame** is a website for the imaginary company Sea Monster Crowdfunding that displays information about the games they have funded. Building this website was a good exercise in reviewing HTML, CSS, and JS. 
 
 Time spent: **8** hours spent in total
 
@@ -38,7 +38,7 @@ It was initially challenging to remember certain JavaScript syntax, and to under
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Dishita Jhawar]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
